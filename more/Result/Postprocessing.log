@@ -1,0 +1,23 @@
+Postprocessing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based postprocessing started at: 01:04 PM Thursday, 18. April 2019
+
+  Error: Magnitude: No data available.
+  Evaluating 'S21 dB': 2 s
+  Error: Phase: No data available.
+  Evaluating 'S21 Phi': 2 s
+  Evaluating 'S11 dB': 0 s
+
+  Total time: 5 s  ( = 0 h, 0 m, 5 s )
+
+Template based postprocessing finished at: 01:04 PM Thursday, 18. April 2019
+----------------------------------------------------------------------------------------

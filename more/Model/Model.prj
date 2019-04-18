@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+Administrator
+[Mesh Cells]
+123,543
+[Mesh Type]
+Tetrahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Frequency Domain
+[Last Solver Type Abb]
+f
+[Results]
+Frequency Domain: S-Parameter
+[Modeler Unique ID]
+5:more.cst?665d026c0de46b067fdc77a97c377f47?35120:numberofparameters=10:port=1>mode=1>zre=0>zim=0:::ab?center0?m?n?r1?r2?r3?r4?r5?x
+[Comment]

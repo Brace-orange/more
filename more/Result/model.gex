@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MetaGeometryFile creator="TetMesher" version="20140429">
+  <Components>
+    <Component name="Components\[2,0]air_0:brick">
+      <Shape name="Components\[2,0]air_0:brick" id="0" visible="0" material="">
+        <MeshGroup3D list="1903"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1449 1450 1451 1452 1453 1863"/>
+            <Neg list=""/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\[1,0]air_0:brick">
+      <Shape name="Components\[1,0]air_0:brick" id="1" visible="0" material="">
+        <MeshGroup3D list="1902"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1454 1455 1456 1457 1458 1864"/>
+            <Neg list=""/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\air_0:brick">
+      <Shape name="Components\air_0:brick" id="2" visible="1" material="air_0">
+        <MeshGroup3D list="1901 1899"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1472 1473 1475 1477 1478 1479 1480 1481 1482 1483 1484 1485 1486 1487 1488 1489 1490 1491 1492 1493 1495 1496 1497 1498 1499 1500 1501 1502 1503 1504 1505 1506 1507 1508 1509 1511 1512 1513 1514 1515 1516 1517 1518 1519 1520 1521 1522 1524 1525 1527 1528 1529 1530 1531 1532 1533 1534 1535 1536 1537 1538 1543 1544 1545 1546 1547 1548 1549 1550 1551 1552 1553 1554 1557 1558 1559 1560 1561 1562 1563 1564 1565 1566 1567 1568 1569 1570 1572 1573 1574 1575 1576 1577 1578 1579 1580 1581 1582 1583 1584 1585 1586 1591 1592 1593 1594 1595 1596 1597 1598 1599 1600 1601 1602 1604 1605 1606 1607 1608 1609 1610 1611 1612 1613 1614 1615 1616 1617 1618 1619 1623 1624 1625 1626 1627 1628 1629 1630 1631 1632 1633 1634 1639 1640 1641 1642 1643 1644 1645 1646 1647 1648 1649 1650 1653 1654 1655 1656 1657 1658 1659 1660 1661 1662 1663 1664 1665 1666 1667 1669 1671 1672 1673 1674 1675 1676 1677 1678 1679 1680 1681 1682 1683 1686 1687 1688 1689 1690 1691 1692 1693 1694 1695 1696 1697 1698 1700 1702 1703 1704 1705 1706 1707 1708 1709 1710 1711 1712 1713 1714 1715 1717 1719 1720 1721 1722 1723 1724 1725 1726 1727 1728 1729 1730 1731 1735 1736 1737 1738 1739 1740 1741 1742 1743 1744 1745 1746 1748 1751 1752 1753 1754 1755 1756 1757 1758 1759 1760 1761 1762 1764 1767 1768 1769 1770 1771 1772 1773 1774 1775 1776 1777 1778 1779 1782 1783 1784 1785 1786 1787 1788 1789 1790 1791 1792 1793 1794 1795 1798 1799 1800 1801 1802 1803 1804 1805 1806 1807 1808 1809 1811 1812 1814 1815 1816 1817 1818 1819 1820 1821 1822 1823 1824 1825 1827 1828 1830 1831 1832 1833 1834 1835 1836 1837 1838 1839 1840 1841 1842 1844 1846 1847 1848 1849 1850 1851 1852 1853 1854 1855 1856 1857 1858 1859 1860 1861 1869 1870 1871 1872 1873 1874"/>
+            <Neg list="1459 1460 1461 1462 1463 1464 1465 1466 1467 1468 1469 1470 1863 1864 1871 1872 1873 1874"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid5_3">
+      <Shape name="Components\component1:solid5_3" id="3" visible="1" material="material1">
+        <MeshGroup3D list="1900"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1459 1460 1461 1462 1463 1464 1465 1466 1467 1468 1469 1470 1471 1474 1476 1571"/>
+            <Neg list=""/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid4_2">
+      <Shape name="Components\component1:solid4_2" id="4" visible="1" material="material1">
+        <MeshGroup3D list="1898"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1620 1621 1622"/>
+            <Neg list="1471 1607 1608 1609 1610 1611 1612 1613 1614 1615 1616 1617 1618 1619"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid4_5">
+      <Shape name="Components\component1:solid4_5" id="5" visible="1" material="material1">
+        <MeshGroup3D list="1897"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1684 1747 1867"/>
+            <Neg list="1472 1559 1560 1561 1562 1563 1564 1565 1566 1567 1568 1569 1570 1571"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid5_2">
+      <Shape name="Components\component1:solid5_2" id="6" visible="1" material="material1">
+        <MeshGroup3D list="1896"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1494 1523 1555 1635"/>
+            <Neg list="1477 1478 1479 1480 1481 1482 1483 1484 1485 1486 1487 1488"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid4_6">
+      <Shape name="Components\component1:solid4_6" id="7" visible="1" material="material1">
+        <MeshGroup3D list="1895"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1699 1732 1865"/>
+            <Neg list="1489 1543 1544 1545 1546 1547 1548 1549 1550 1551 1552 1553 1554 1555"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid4_1">
+      <Shape name="Components\component1:solid4_1" id="8" visible="1" material="material1">
+        <MeshGroup3D list="1894"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1636 1637 1638"/>
+            <Neg list="1490 1623 1624 1625 1626 1627 1628 1629 1630 1631 1632 1633 1634 1635"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid5_1">
+      <Shape name="Components\component1:solid5_1" id="9" visible="1" material="material1">
+        <MeshGroup3D list="1893"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1510 1587 1651 1652"/>
+            <Neg list="1495 1496 1497 1498 1499 1500 1501 1502 1503 1504 1505 1506"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid4">
+      <Shape name="Components\component1:solid4" id="10" visible="1" material="material1">
+        <MeshGroup3D list="1892"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1716 1780 1868"/>
+            <Neg list="1508 1639 1640 1641 1642 1643 1644 1645 1646 1647 1648 1649 1650 1651"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid4_4">
+      <Shape name="Components\component1:solid4_4" id="11" visible="1" material="material1">
+        <MeshGroup3D list="1891"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1588 1589 1590"/>
+            <Neg list="1509 1575 1576 1577 1578 1579 1580 1581 1582 1583 1584 1585 1586 1587"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid5">
+      <Shape name="Components\component1:solid5" id="12" visible="1" material="material1">
+        <MeshGroup3D list="1890"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1526 1539 1556 1603"/>
+            <Neg list="1511 1512 1513 1514 1515 1516 1517 1518 1519 1520 1521 1522"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid4_3">
+      <Shape name="Components\component1:solid4_3" id="13" visible="1" material="material1">
+        <MeshGroup3D list="1889"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1668 1763 1866"/>
+            <Neg list="1524 1591 1592 1593 1594 1595 1596 1597 1598 1599 1600 1601 1602 1603"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid4_7">
+      <Shape name="Components\component1:solid4_7" id="14" visible="1" material="material1">
+        <MeshGroup3D list="1888"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1540 1541 1542"/>
+            <Neg list="1525 1527 1528 1529 1530 1531 1532 1533 1534 1535 1536 1537 1538 1539"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid2_3">
+      <Shape name="Components\component1:solid2_3" id="15" visible="1" material="material1">
+        <MeshGroup3D list="1887"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1733 1734"/>
+            <Neg list="1540 1557 1719 1720 1721 1722 1723 1724 1725 1726 1727 1728 1729 1730 1731 1732"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid3_3">
+      <Shape name="Components\component1:solid3_3" id="16" visible="1" material="material1">
+        <MeshGroup3D list="1886"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1670 1826"/>
+            <Neg list="1542 1606 1655 1656 1657 1658 1659 1660 1661 1662 1663 1664 1665 1666 1667 1668"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid3_1">
+      <Shape name="Components\component1:solid3_1" id="17" visible="1" material="material1">
+        <MeshGroup3D list="1885"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1701 1796"/>
+            <Neg list="1558 1638 1687 1688 1689 1690 1691 1692 1693 1694 1695 1696 1697 1698 1699 1700"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid2_2">
+      <Shape name="Components\component1:solid2_2" id="18" visible="1" material="material1">
+        <MeshGroup3D list="1884"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1749 1750"/>
+            <Neg list="1573 1589 1735 1736 1737 1738 1739 1740 1741 1742 1743 1744 1745 1746 1747 1748"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid3_2">
+      <Shape name="Components\component1:solid3_2" id="19" visible="1" material="material1">
+        <MeshGroup3D list="1883"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1685 1810"/>
+            <Neg list="1574 1622 1671 1672 1673 1674 1675 1676 1677 1678 1679 1680 1681 1682 1683 1684"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid3">
+      <Shape name="Components\component1:solid3" id="20" visible="1" material="material1">
+        <MeshGroup3D list="1882"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1718 1843"/>
+            <Neg list="1590 1654 1703 1704 1705 1706 1707 1708 1709 1710 1711 1712 1713 1714 1715 1716"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid2_1">
+      <Shape name="Components\component1:solid2_1" id="21" visible="1" material="material1">
+        <MeshGroup3D list="1881"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1765 1766"/>
+            <Neg list="1605 1621 1751 1752 1753 1754 1755 1756 1757 1758 1759 1760 1761 1762 1763 1764"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid2">
+      <Shape name="Components\component1:solid2" id="22" visible="1" material="material1">
+        <MeshGroup3D list="1880"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1781 1862"/>
+            <Neg list="1636 1653 1767 1768 1769 1770 1771 1772 1773 1774 1775 1776 1777 1778 1779 1780"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid1_1">
+      <Shape name="Components\component1:solid1_1" id="23" visible="1" material="material1">
+        <MeshGroup3D list="1879"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1829"/>
+            <Neg list="1669 1685 1765 1814 1815 1816 1817 1818 1819 1820 1821 1822 1823 1824 1825 1826 1827 1828"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid1_2">
+      <Shape name="Components\component1:solid1_2" id="24" visible="1" material="material1">
+        <MeshGroup3D list="1878"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1797"/>
+            <Neg list="1670 1702 1733 1782 1783 1784 1785 1786 1787 1788 1789 1790 1791 1792 1793 1794 1795 1796"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid1_1_1">
+      <Shape name="Components\component1:solid1_1_1" id="25" visible="1" material="material1">
+        <MeshGroup3D list="1877"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1813"/>
+            <Neg list="1686 1718 1749 1798 1799 1800 1801 1802 1803 1804 1805 1806 1807 1808 1809 1810 1811 1812"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid1">
+      <Shape name="Components\component1:solid1" id="26" visible="1" material="material1">
+        <MeshGroup3D list="1876"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list="1845"/>
+            <Neg list="1701 1717 1781 1830 1831 1832 1833 1834 1835 1836 1837 1838 1839 1840 1841 1842 1843 1844"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:center">
+      <Shape name="Components\component1:center" id="27" visible="1" material="material1">
+        <MeshGroup3D list="1875"/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list=""/>
+            <Neg list="1797 1813 1829 1845 1846 1847 1848 1849 1850 1851 1852 1853 1854 1855 1856 1857 1858 1859 1860 1861"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:11">
+      <Shape name="Components\component1:11" id="28" visible="1" material="PEC">
+        <MeshGroup3D list=""/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list=""/>
+            <Neg list=""/>
+            <DS list="1871 1872 1873 1874"/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\[2,0]air_0:brick\PEC_Background">
+      <Shape name="Components\[2,0]air_0:brick\PEC_Background" id="29" visible="0" material="">
+        <MeshGroup3D list=""/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list=""/>
+            <Neg list="1450 1452"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\[1,0]air_0:brick\PEC_Background">
+      <Shape name="Components\[1,0]air_0:brick\PEC_Background" id="30" visible="0" material="">
+        <MeshGroup3D list=""/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list=""/>
+            <Neg list="1455 1457"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\air_0:brick\PEC_Background">
+      <Shape name="Components\air_0:brick\PEC_Background" id="31" visible="1" material="air_0">
+        <MeshGroup3D list=""/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list=""/>
+            <Neg list="1473 1493 1507 1604"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid5_3\PEC_Background">
+      <Shape name="Components\component1:solid5_3\PEC_Background" id="32" visible="1" material="material1">
+        <MeshGroup3D list=""/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list=""/>
+            <Neg list="1474"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid5_2\PEC_Background">
+      <Shape name="Components\component1:solid5_2\PEC_Background" id="33" visible="1" material="material1">
+        <MeshGroup3D list=""/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list=""/>
+            <Neg list="1494"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid5\PEC_Background">
+      <Shape name="Components\component1:solid5\PEC_Background" id="34" visible="1" material="material1">
+        <MeshGroup3D list=""/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list=""/>
+            <Neg list="1526"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid4_2\PEC_Background">
+      <Shape name="Components\component1:solid4_2\PEC_Background" id="35" visible="1" material="material1">
+        <MeshGroup3D list=""/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list=""/>
+            <Neg list="1620"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid4_1\PEC_Background">
+      <Shape name="Components\component1:solid4_1\PEC_Background" id="36" visible="1" material="material1">
+        <MeshGroup3D list=""/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list=""/>
+            <Neg list="1637"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid5_1\PEC_Background">
+      <Shape name="Components\component1:solid5_1\PEC_Background" id="37" visible="1" material="material1">
+        <MeshGroup3D list=""/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list=""/>
+            <Neg list="1652"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid2_1\PEC_Background">
+      <Shape name="Components\component1:solid2_1\PEC_Background" id="38" visible="1" material="material1">
+        <MeshGroup3D list=""/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list=""/>
+            <Neg list="1766"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid2\PEC_Background">
+      <Shape name="Components\component1:solid2\PEC_Background" id="39" visible="1" material="material1">
+        <MeshGroup3D list=""/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list=""/>
+            <Neg list="1862"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid4_3\PEC_Background">
+      <Shape name="Components\component1:solid4_3\PEC_Background" id="40" visible="1" material="material1">
+        <MeshGroup3D list=""/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list=""/>
+            <Neg list="1866"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+    <Component name="Components\component1:solid4\PEC_Background">
+      <Shape name="Components\component1:solid4\PEC_Background" id="41" visible="1" material="material1">
+        <MeshGroup3D list=""/>
+        <Face>
+          <MeshGroup0D list=""/>
+          <MeshGroup1D list=""/>
+          <MeshGroup2D>
+            <Pos list=""/>
+            <Neg list="1868"/>
+            <DS list=""/>
+          </MeshGroup2D>
+        </Face>
+      </Shape>
+    </Component>
+  </Components>
+  <SimulationDomain min="-5 -5 -12.16052532196" max="7.5 7.5 10.71747493744"/>
+  <Materials>
+    <Material name="PEC" priority="1">
+      <Color value="0 0 0"/>
+      <Transparency value="0"/>
+      <Wireframe value="0"/>
+      <Reflective value="1"/>
+      <Outline value="1"/>
+      <OutlineIfTransparent value="0"/>
+    </Material>
+    <Material name="air_0" priority="1">
+      <Color value="0.3333333432674 0.3333333432674 0.3333333432674"/>
+      <Transparency value="0"/>
+      <Wireframe value="0"/>
+      <Reflective value="1"/>
+      <Outline value="1"/>
+      <OutlineIfTransparent value="0"/>
+    </Material>
+    <Material name="material1" priority="1">
+      <Color value="0.6666666865349 0.6666666865349 0.6666666865349"/>
+      <Transparency value="0"/>
+      <Wireframe value="0"/>
+      <Reflective value="1"/>
+      <Outline value="1"/>
+      <OutlineIfTransparent value="0"/>
+    </Material>
+  </Materials>
+  <GeometryFile filename="3d.slim" type="slim"/>
+  <MeshType type="TETRAHEDRAL"/>
+  <HexMesh>
+    <Dimensions nx="14" ny="14" nz="26"/>
+    <MeshPlanesX values="-5 -4.038461538462 -3.076923076923 -2.115384615385 -1.153846153846 -0.1923076923077 0.7692307692308 1.730769230769 2.692307692308 3.653846153846 4.615384615385 5.576923076923 6.538461538462 7.5"/>
+    <MeshPlanesY values="-5 -4.038461538462 -3.076923076923 -2.115384615385 -1.153846153846 -0.1923076923077 0.7692307692308 1.730769230769 2.692307692308 3.653846153846 4.615384615385 5.576923076923 6.538461538462 7.5"/>
+    <MeshPlanesZ values="-12.16052532196 -11.24540531158 -10.33028530121 -9.415165290833 -8.500045280457 -7.584925270081 -6.669805259705 -5.754685249329 -4.839565238953 -3.924445228577 -3.009325218201 -2.094205207825 -1.179085197449 -0.2639651870727 0.6511548233033 1.566274833679 2.481394844055 3.396514854431 4.311634864807 5.226754875183 6.141874885559 7.056994895935 7.972114906311 8.887234916687 9.802354927063 10.71747493744"/>
+  </HexMesh>
+</MetaGeometryFile>
