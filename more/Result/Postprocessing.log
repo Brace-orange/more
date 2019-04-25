@@ -9,15 +9,15 @@ Units settings:
 
 ----------------------------------------------------------------------------------------
 
-Template based postprocessing started at: 01:04 PM Thursday, 18. April 2019
+Template based postprocessing started at: 06:00 PM Thursday, 25. April 2019
 
   Error: Magnitude: No data available.
-  Evaluating 'S21 dB': 2 s
+  Evaluating 'S21 dB': 3 s
   Error: Phase: No data available.
   Evaluating 'S21 Phi': 2 s
   Evaluating 'S11 dB': 0 s
 
-  Total time: 5 s  ( = 0 h, 0 m, 5 s )
+  Total time: 7 s  ( = 0 h, 0 m, 7 s )
 
-Template based postprocessing finished at: 01:04 PM Thursday, 18. April 2019
+Template based postprocessing finished at: 06:00 PM Thursday, 25. April 2019
 ----------------------------------------------------------------------------------------

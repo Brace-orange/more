@@ -1424,7 +1424,7 @@ With Transform
      .Destination "" 
      .Material "" 
      .Transform "Shape", "Translate" 
-End With 
+End With
 
 '@ define brick: component1:11
 
@@ -1439,7 +1439,6 @@ With Brick
      .Zrange "-5.25", "-8" 
      .Create
 End With
-
 
 '@ transform: translate component1:11
 
@@ -1457,8 +1456,7 @@ With Transform
      .Destination "" 
      .Material "" 
      .Transform "Shape", "Translate" 
-End With 
-
+End With
 
 '@ define brick: component1:solid6
 
@@ -1473,7 +1471,6 @@ With Brick
      .Zrange "-5.25", "-8" 
      .Create
 End With
-
 
 '@ transform: translate component1:solid6
 
@@ -1491,50 +1488,42 @@ With Transform
      .Destination "" 
      .Material "" 
      .Transform "Shape", "Translate" 
-End With 
-
+End With
 
 '@ boolean add shapes: component1:11, component1:11_1
 
 '[VERSION]2015.0|24.0.2|20150116[/VERSION]
-Solid.Add "component1:11", "component1:11_1" 
-
+Solid.Add "component1:11", "component1:11_1"
 
 '@ boolean add shapes: component1:11, component1:solid6
 
 '[VERSION]2015.0|24.0.2|20150116[/VERSION]
-Solid.Add "component1:11", "component1:solid6" 
-
+Solid.Add "component1:11", "component1:solid6"
 
 '@ boolean add shapes: component1:11, component1:solid6_1
 
 '[VERSION]2015.0|24.0.2|20150116[/VERSION]
-Solid.Add "component1:11", "component1:solid6_1" 
-
-
-'@ pick edge
-
-'[VERSION]2015.0|24.0.2|20150116[/VERSION]
-Pick.PickEdgeFromId "component1:11", "12", "12" 
-
+Solid.Add "component1:11", "component1:solid6_1"
 
 '@ pick edge
 
 '[VERSION]2015.0|24.0.2|20150116[/VERSION]
-Pick.PickEdgeFromId "component1:11", "1", "16" 
-
-
-'@ pick edge
-
-'[VERSION]2015.0|24.0.2|20150116[/VERSION]
-Pick.PickEdgeFromId "component1:11", "16", "16" 
-
+Pick.PickEdgeFromId "component1:11", "12", "12"
 
 '@ pick edge
 
 '[VERSION]2015.0|24.0.2|20150116[/VERSION]
-Pick.PickEdgeFromId "component1:11", "5", "13" 
+Pick.PickEdgeFromId "component1:11", "1", "16"
 
+'@ pick edge
+
+'[VERSION]2015.0|24.0.2|20150116[/VERSION]
+Pick.PickEdgeFromId "component1:11", "16", "16"
+
+'@ pick edge
+
+'[VERSION]2015.0|24.0.2|20150116[/VERSION]
+Pick.PickEdgeFromId "component1:11", "5", "13"
 
 '@ define port: 1
 
@@ -1560,20 +1549,17 @@ With Port
      .ZrangeAdd "0.0", "0.0" 
      .SingleEnded "False" 
      .Create 
-End With 
-
+End With
 
 '@ change solver type
 
 '[VERSION]2015.0|24.0.2|20150116[/VERSION]
-ChangeSolverType "HF Frequency Domain" 
-
+ChangeSolverType "HF Frequency Domain"
 
 '@ define frequency domain solver parameters
 
 '[VERSION]2015.0|24.0.2|20150116[/VERSION]
 Mesh.SetCreator "High Frequency" 
-
 With FDSolver
      .Reset 
      .SetMethod "Tetrahedral", "General purpose" 
@@ -1638,7 +1624,6 @@ With FDSolver
      .LimitCPUs "True"
      .MaxCPUs "48"
 End With
-
 With IESolver
      .Reset 
      .UseFastFrequencySweep "True" 
@@ -1646,7 +1631,6 @@ With IESolver
      .SetRealGroundMaterialName "" 
      .PreconditionerType "Auto" 
 End With
-
 With IESolver
      .SetFMMFFCalcStopLevel "0" 
      .SetFMMFFCalcNumInterpPoints "6" 
@@ -1664,4 +1648,8 @@ With IESolver
      .CalculateSParaforFieldsources "True" 
 End With
 
+'@ change solver type
+
+'[VERSION]2015.0|24.0.2|20150116[/VERSION]
+ChangeSolverType "HF Frequency Domain" 
 

@@ -3,9 +3,9 @@
   Mesh adaptation pass     :	1
   Simulation point         :	70 GHz
 ----------------------------------------------------------------------
-  Solver time w/o ref.     :	13 s
-  Mesh refinement time     :	11 s
-  Number of mesh cells     :	40436
+  Solver time w/o ref.     :	14 s
+  Mesh refinement time     :	13 s
+  Number of mesh cells     :	43256
 ----------------------------------------------------------------------
 
 ----------------------------------------------------------------------
@@ -13,10 +13,10 @@
   Mesh adaptation pass     :	2
   Simulation point         :	70 GHz
 ----------------------------------------------------------------------
-  Solver time w/o ref.     :	14 s
-  Mesh refinement time     :	4 s
-  Number of mesh cells     :	46278
-  Max. S-Parameter delta   :	0.0561297
+  Solver time w/o ref.     :	16 s
+  Mesh refinement time     :	5 s
+  Number of mesh cells     :	48999
+  Max. S-Parameter delta   :	0.0588962
 ----------------------------------------------------------------------
 
 ----------------------------------------------------------------------
@@ -24,10 +24,10 @@
   Mesh adaptation pass     :	3
   Simulation point         :	70 GHz
 ----------------------------------------------------------------------
-  Solver time w/o ref.     :	17 s
-  Mesh refinement time     :	6 s
-  Number of mesh cells     :	52853
-  Max. S-Parameter delta   :	0.0316833
+  Solver time w/o ref.     :	21 s
+  Mesh refinement time     :	7 s
+  Number of mesh cells     :	53196
+  Max. S-Parameter delta   :	0.046896
 ----------------------------------------------------------------------
 
 ----------------------------------------------------------------------
@@ -35,10 +35,10 @@
   Mesh adaptation pass     :	4
   Simulation point         :	70 GHz
 ----------------------------------------------------------------------
-  Solver time w/o ref.     :	19 s
-  Mesh refinement time     :	6 s
-  Number of mesh cells     :	65744
-  Max. S-Parameter delta   :	0.0184604
+  Solver time w/o ref.     :	24 s
+  Mesh refinement time     :	8 s
+  Number of mesh cells     :	60172
+  Max. S-Parameter delta   :	0.0228636
 ----------------------------------------------------------------------
 
 ----------------------------------------------------------------------
@@ -47,9 +47,9 @@
   Simulation point         :	70 GHz
 ----------------------------------------------------------------------
   Solver time w/o ref.     :	26 s
-  Mesh refinement time     :	6 s
-  Number of mesh cells     :	85061
-  Max. S-Parameter delta   :	0.0108673
+  Mesh refinement time     :	11 s
+  Number of mesh cells     :	72525
+  Max. S-Parameter delta   :	0.0154334
 ----------------------------------------------------------------------
 
 ----------------------------------------------------------------------
@@ -58,9 +58,9 @@
   Simulation point         :	70 GHz
 ----------------------------------------------------------------------
   Solver time w/o ref.     :	31 s
-  Mesh refinement time     :	8 s
-  Number of mesh cells     :	104337
-  Max. S-Parameter delta   :	0.00504426
+  Mesh refinement time     :	17 s
+  Number of mesh cells     :	91815
+  Max. S-Parameter delta   :	0.0062936
 ----------------------------------------------------------------------
 
 ----------------------------------------------------------------------
@@ -68,14 +68,14 @@
   Mesh adaptation pass     :	7
   Simulation point         :	70 GHz
 ----------------------------------------------------------------------
-  Solver time w/o ref.     :	34 s
-  Mesh refinement time     :	1 s
-  Number of mesh cells     :	123543
-  Max. S-Parameter delta   :	0.0019756
+  Solver time w/o ref.     :	50 s
+  Mesh refinement time     :	2 s
+  Number of mesh cells     :	110930
+  Max. S-Parameter delta   :	0.00431193
 ----------------------------------------------------------------------
 
 ----------------------------------------------------------------------
-  Total solver time        :	197 s
+  Total solver time        :	247 s
 
   Desired accuracy limit reached, mesh adaptation stopped.
 ----------------------------------------------------------------------
